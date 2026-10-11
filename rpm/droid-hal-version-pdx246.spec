@@ -1,5 +1,5 @@
 # SPDX-FileCopyrightText: Johannes Meyer zum Alten Borgloh
-# SPDX-License-Identifier: Apache-2.0
+# SPDX-License-Identifier: BSD-3-Clause
 
 # Version and hw-release package for the Sony Xperia 10 VI (pdx246), built by
 # rpm/dhd/helpers/build_packages.sh -v. The packaging itself is in the

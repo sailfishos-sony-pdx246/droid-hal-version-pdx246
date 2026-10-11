@@ -1,5 +1,5 @@
 # SPDX-FileCopyrightText: Johannes Meyer zum Alten Borgloh
-# SPDX-License-Identifier: Apache-2.0
+# SPDX-License-Identifier: BSD-3-Clause
 
 # Left behind by mb2 builds; the packages themselves go to
 # $ANDROID_ROOT/droid-local-repo/pdx246.
