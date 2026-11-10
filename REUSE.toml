@@ -15,7 +15,7 @@ SPDX-PackageSupplier = "Johannes Meyer zum Alten Borgloh"
 
 # Written for this port: the documentation.
 [[annotations]]
-path = ["README.md", "NOTES.md", "SUBMODULES.md"]
+path = ["README.md"]
 SPDX-FileCopyrightText = "Johannes Meyer zum Alten Borgloh"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
