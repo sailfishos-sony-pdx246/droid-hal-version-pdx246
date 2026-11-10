@@ -31,9 +31,7 @@
 # because there is no force-feedback input device.
 %define have_vibrator_native 1
 
-# Notification LED: puts mce-plugin-libhybris into the build root and the
-# package list. mce drives the LED through the plugin's sysfs backends, and
-# droid-config chooses the backend.
-%define have_led 1
+# No have_led: the Xperia 10 VI has no notification LED, so the image has no
+# mce-plugin-libhybris (it only holds mce's LED backends).
 
 %include droid-hal-version/droid-hal-version.inc
